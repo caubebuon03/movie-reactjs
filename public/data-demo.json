@@ -1,0 +1,294 @@
+[
+    {
+        "id": "1",
+        "title": "Thế giới hoàn mỹ",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/1683919498.jpg",
+        "video": "https://www.youtube.com/embed/cMIOg8b-KgA?si=FqVJaCYbvx4BhDBO",
+        "banner": "https://anime.atsit.in/l/wp-content/uploads/2023/03/the-gioi-hoan-my-tap-103-ngay-phat-hanh-spoiler-huong-dan-phat-truc-tuyen.jpg",
+        "vote": 4,
+        "overview": "Thế giới hoàn mỹ",
+        "isTrending": true,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Hao",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/1683919498.jpg"
+        },{
+          "name": "Hao",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/1683919498.jpg"
+        },{
+          "name": "Hao",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/1683919498.jpg"
+        }],
+        "category": ["movie"]
+      },
+      {
+        "id": "2",
+        "title": "Đấu phá thương khung",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/vu-dong-can-khon-phan-4.jpg",
+        "banner": "https://i.pinimg.com/originals/22/f3/bf/22f3bfbbafd950df7204a59a6b85a7f9.jpg",
+        "video": "https://www.youtube.com/embed/oOuLv5oVCJE?si=j3hhLco_4DIBharJ",
+        "vote": 4,
+        "overview": "Sau ba năm đợi chờ, Tiêu Viêm cuối cùng cũng có dịp gặp gỡ Huân Nhi tại Học Viện Già Nam ở Già Nam. Cuộc tái ngộ này không chỉ là một buổi gặp mặt, mà còn là bắt đầu cho một hành trình mới của Tiêu Viêm trên con đường võ thuật và báo thù. ",
+        "isTrending": true,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Tiêu Viêm",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/vu-dong-can-khon-phan-4.jpg"
+        },{
+          "name": "Tiêu Viêm",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/vu-dong-can-khon-phan-4.jpg"
+        }],
+        "category": ["movie"]
+      },
+      {
+        "id": "3",
+        "title": "Bách luyện thành thần",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/1665428950.jpg",
+        "video": "https://www.youtube.com/embed/sR24gKARMmQ?si=dALuoP5tKUoaaNVw",
+        "vote": 5,
+        "overview": "Tu tiên",
+        "isTrending": false,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/1665428950.jpg"
+        }],
+        "category": ["movie"]
+      },{
+        "id": "4",
+        "title": "Law Of The Devil (2022)",
+        "release_date": "2022-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/ac-ma-phap-tac-3d-vietsub-new.jpg",
+        "video": "https://www.youtube.com/embed/Fo9eFlEZ8GI?si=_367vTZD5PsZuaoo",
+        "vote": 5,
+        "overview": "Ác pha pháp tắc",
+        "isTrending": false,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/ac-ma-phap-tac-3d-vietsub-new.jpg"
+        }],
+        "category": ["movie"]
+      },
+      {
+        "id": "5",
+        "title": "The Great Ruler",
+        "release_date": "2022-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/1682743241.jpg",
+        "banner": "https://i.ytimg.com/vi/Cw-n6MYPB-8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAk7i0IBjukPXu5hEQM1cVq6hG3TA",
+        "video": "https://www.youtube.com/embed/mkxu4YSEMTo?si=ap7q8uvC-CcHGVt4",
+        "vote": 5,
+        "overview": "Đại chúa tể",
+        "isTrending": true,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/1682743241.jpg"
+        }], 
+        "category": ["movie"]
+      },
+      {
+        "id": "6",
+        "title": "Tai Yi Jian Xian Chuan (2023)",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/nhat-thai-kiem-tien-truyen-vietsub.jpg",
+        "banner": "https://s1.dmcdn.net/v/VLQ4u1bCs2VN-rOvO/x1080",
+        "video": "https://www.youtube.com/embed/mkxu4YSEMTo?si=ap7q8uvC-CcHGVt4",
+        "vote": 5,
+        "overview": "Thái Nhất Kiếm Tiên Truyện",
+        "isTrending": true,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/nhat-thai-kiem-tien-truyen-vietsub.jpg"
+        }], 
+        "category": ["movie"]
+      },
+      {
+        "id": "7",
+        "title": "Against The Gods 3D - Ni Tian Xieshen",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/1682743064.jpg",
+        "video": "https://www.youtube.com/embed/iQpe3hSUTXk?si=ImjWvDiLtgpSPPw7",
+        "vote": 5,
+        "overview": "Nghịch Thiên Tà Thần",
+        "isTrending": false,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/1682743064.jpg"
+        }], 
+        "category": ["movie"]
+      },
+      {
+        "id": "8",
+        "title": "Wan Jie Du Zun",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/1635570426.jpg",
+        "video": "https://www.youtube.com/embed/rKqVlaN_hTE?si=qYisvMJ5O3MQTp-m",
+        "vote": 5,
+        "overview": "Với sự trợ giúp của Phượng Hoàng huyết mạch, Lâm Phong đã vượt qua mọi khó khăndần  từng bước tiến lên trên con đường võ đạo. Anh trải qua những thử thách đầy nguy hiểm, chiến đấu với những đối thủ mạnh mẽ. Lâm Phong trở thành một cường giả được tôn kính",
+        "isTrending": false,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/1635570426.jpg"
+        }], 
+        "category": ["movie"]
+      },
+      {
+        "id": "9",
+        "title": "Fan Ren Xiu Xian Zhuan",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/1689306279.jpg",
+        "banner": "https://bloganchoi.com/wp-content/uploads/2023/09/dau-pha-thuong-khung-tam-ly-nhan-vat.jpg",
+        "video": "https://www.youtube.com/embed/rKqVlaN_hTE?si=qYisvMJ5O3MQTp-m",
+        "vote": 4,
+        "overview": "Phàm nhân tu tiên",
+        "isTrending": true,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/1689306279.jpg"
+        }], 
+        "category": ["movie"]
+      },
+      {
+        "id": "10",
+        "title": "The Peak of True Martial Arts",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/1683685174.jpg",
+        "banner": "https://bloganchoi.com/wp-content/uploads/2023/09/dau-pha-thuong-khung-tam-ly-nhan-vat.jpg",
+        "video": "https://www.youtube.com/embed/bFF7UWRewbw?si=CrBazFgmoi2wHMmE",
+        "vote": 3,
+        "overview": "Nhiếp Phong xuyên không về lúc thiếu niên 17 tuổi. Xuất thân bình thường, nhưng ông mang trong mình tuyệt học võ công. Nhờ sức mạnh này, Nhiếp Phong bắt đầu thăng tiến nhanh chóng, bù đắp lại những tiếc nuối từ kiếp trước. ",
+        "isTrending": true,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/1683685174.jpg"
+        }], 
+        "category": ["movie"]
+      },
+      {
+        "id": "11",
+        "title": "Wu Ying San Qian Dao (2022)",
+        "release_date": "2022-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/vo-anh-tam-thien-dao-2023.jpg",
+        "banner": "https://bloganchoi.com/wp-content/uploads/2023/09/dau-pha-thuong-khung-tam-ly-nhan-vat.jpg",
+        "video": "https://www.youtube.com/embed/ks1GHn6IVkQ?si=ZkPah3-gcf_9kDUi",
+        "vote": 3,
+        "overview": "Võ ánh thiên đạo",
+        "isTrending": false,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/vo-anh-tam-thien-dao-2023.jpg"
+        }], 
+        "category": ["movie"]
+      },
+      {
+        "id": "12",
+        "title": "The Westward Season 5 (2023)",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/1690955566.jpg",
+        "banner": "https://bloganchoi.com/wp-content/uploads/2023/09/dau-pha-thuong-khung-tam-ly-nhan-vat.jpg",
+        "video": "https://www.youtube.com/embed/JOicxhFlD0g?si=U0IXWCsE5ANP4WYf",
+        "vote": 5,
+        "overview": "Võ ánh thiên đạo",
+        "isTrending": true,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/1690955566.jpg"
+        }], 
+        "category": ["movie"]
+      },
+      {
+        "id": "13",
+        "title": "Zhen Dao Ge - The Song of the Pillow Sword Season 2 (2023)",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/cham-dao-ca-2.jpg",
+        "banner": "https://bloganchoi.com/wp-content/uploads/2023/09/dau-pha-thuong-khung-tam-ly-nhan-vat.jpg",
+        "video": "https://www.youtube.com/embed/JOicxhFlD0g?si=U0IXWCsE5ANP4WYf",
+        "vote": 3,
+        "overview": "La Thông và đồng đội phải đối mặt với nhữngc khó khăn, vượt qua những hiểm nguy nguy hiểm, để tạo nên một câu chuyện đậm chất võ hiệp, ở đây tình bạn, tình yêu, và trách nhiệm đều được thách thức cùng những tình huống đầy khó khăn.",
+        "isTrending": false,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/cham-dao-ca-2.jpg"
+        }], 
+        "category": ["movie"]
+      },
+      {
+        "id": "14",
+        "title": "1st Kiss (2023)",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/nguoi-den-muon-2023-vietsub.jpg",
+        "banner": "https://img.wattpad.com/c2c5e4c6610193618bac9469d0cc035d58776f3d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f77516c633935636b4a55596d51673d3d2d3737303332303237312e313562393961383139616565363337643630303433313334313030312e6a7067",
+        "video": "https://www.youtube.com/embed/JOicxhFlD0g?si=U0IXWCsE5ANP4WYf",
+        "vote": 3,
+        "overview": "Câu chuyện kể về mối tình  Cố Trì, một người mẫu mới bắt đầu sự nghiệp, và siêu mẫu Khương Lan. Dù bắt đầu từ một quan hệ gia đình, tình cảm giữa họ đã phát triển thành một hành trình mới, không chỉ trong lĩnh vực nghề nghiệp mà còn trong cuộc sống cá nhân.",
+        "isTrending": false,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/nguoi-den-muon-2023-vietsub.jpg"
+        }], 
+        "category": ["movie"]
+      },
+      {
+        "id": "15",
+        "title": "Wu Shen Zhu Zai",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/1635570430.png",
+        "banner": "https://simg.zalopay.com.vn/zlp-website/assets/phim_hoat_hinh_3_D_trung_quoc_vo_than_chua_te_1_1e668f0bfd.jpg",
+        "video": "https://www.youtube.com/embed/JOicxhFlD0g?si=U0IXWCsE5ANP4WYf",
+        "vote": 3,
+        "overview": "Tần Trần của 300 năm sau Với sức mạnh và sự thông minh, Tần Trần bắt đầu một hành trình  xây dựng danh tiếng và quật khởi mạnh mẽ. Cuộc phiêu lưu của anh đánh dấu một chương mới trên lữ trình đầy chông gai của Thiên Vũ đại lục.",
+        "isTrending": false,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/1635570430.png"
+        }], 
+        "category": ["movie"]
+      },
+      {
+        "id": "16",
+        "title": "Lian Qi Shi Wan Nian (2023)",
+        "release_date": "2023-01-01",
+        "poster": "https://hhpanda.cdn1-img.net/luyen-khi.jpeg",
+        "banner": "https://scontent.fhan5-9.fna.fbcdn.net/v/t39.30808-6/409393887_919469083307114_922206060953343876_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=EQdzd_whESkAX_aqqaZ&_nc_ht=scontent.fhan5-9.fna&oh=00_AfCjtWPeZUw9cQpZ3zyMKACjgKmzvsakcKAfFAyyyM22hA&oe=657C94B7",
+        "video": "https://www.youtube.com/embed/JOicxhFlD0g?si=U0IXWCsE5ANP4WYf",
+        "vote": 3,
+        "overview": "Cuộc chiến của Từ Dương không chỉ là cuộc đấu với đối thủ , mà còn là sự đấu tranh để khôi phục vị thế của Thiên Lam Tông và đưa tông môn trở lại đỉnh cao của giới tu chân. Sứ mệnh này không chỉ đòi hỏi sức mạnh và chiến thuật mà còn yêu cầu lòng trung hiếu và tình yêu thương sâu sắc đối với tông môn và đồng môn.",
+        "isTrending": false,
+        "price": 120,
+        "time": 120,
+        "actors": [{
+          "name": "Ryo",
+          "avatarUrl": "https://hhpanda.cdn1-img.net/luyen-khi.jpeg"
+        }], 
+        "category": ["movie"]
+      }
+]
